@@ -1,0 +1,1 @@
+Refer: [http://note.sonots.com/Comp/CompLang/cpp/getopt.html](http://note.sonots.com/Comp/CompLang/cpp/getopt.html)
