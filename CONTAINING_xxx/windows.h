@@ -1,0 +1,1 @@
+#define CONTAINING_RECORD(ptr,struct_t,member) ((struct_t*)(((unsigned char*)ptr)-(unsigned long)&(((struct_t*)0)->member)))
